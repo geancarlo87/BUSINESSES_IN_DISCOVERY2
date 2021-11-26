@@ -1,3 +1,4 @@
+//para obtener información de las comentarios, datos de importancia 
 const mongoose = require("mongoose");
 const {Schema, model} = require("mongoose");
 const ObjectId = Schema.ObjectId;

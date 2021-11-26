@@ -1,3 +1,4 @@
+    //es para enrutar o tener un detalle en donde se va ubicar cada codigo e interacciones que ocurran en la web
 const express =require("express");
 const router = express.Router(); 
 

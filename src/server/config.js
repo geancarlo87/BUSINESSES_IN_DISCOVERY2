@@ -1,3 +1,4 @@
+//nos permitira revisar en donde se van a guardar las vistas, vistas previas, imagnes y otros detalles
 const path = require("path");
 const exphbs = require("express-handlebars");
 const morgan=require ("morgan");

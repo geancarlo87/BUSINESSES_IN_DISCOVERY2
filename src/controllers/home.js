@@ -1,3 +1,4 @@
+//para desarrollar algunas controles de ingresos o cargas
 const ctrl={};
 const{ Image }= require("../models");
 

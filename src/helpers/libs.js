@@ -1,3 +1,4 @@
+//usado para poder añadirles un número aleatorio a las imagenes
 const helpers = {};
 
 helpers.randomNumber=()=>{

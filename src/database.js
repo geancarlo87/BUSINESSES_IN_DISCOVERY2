@@ -1,3 +1,4 @@
+//indicaciones de las url de las base de datos, nos indica que si estamos conectados con el servidor
 const mongoose = require("mongoose");
 
 const {database}=require("./keys");

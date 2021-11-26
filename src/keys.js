@@ -1,3 +1,4 @@
+//donde ubicaremos la base de datos con mongo
 module.exports={
 
     database:{

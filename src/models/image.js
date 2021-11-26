@@ -1,3 +1,4 @@
+//para obtener información de las imagenes, datos de importancia 
 const mongoose = require("mongoose");
 const {Schema} = mongoose;
 const path = require("path");
