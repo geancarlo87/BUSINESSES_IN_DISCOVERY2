@@ -21,7 +21,7 @@ module.exports = app => {
         extname:".hbs",
         helpers: require("./helpers")
     }));
-    app.set("views engine", ".hbs");
+    app.set("view engine", ".hbs");
 
     //middlewares
     app.use(morgan("dev"));
